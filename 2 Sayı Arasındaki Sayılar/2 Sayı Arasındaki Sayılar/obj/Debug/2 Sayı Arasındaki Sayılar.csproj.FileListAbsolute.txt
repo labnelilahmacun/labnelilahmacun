@@ -1,0 +1,10 @@
+C:\Users\ozan1\source\repos\2 Sayı Arasındaki Sayılar\2 Sayı Arasındaki Sayılar\obj\Debug\2 Sayı Arasındaki Sayılar.csproj.AssemblyReference.cache
+C:\Users\ozan1\source\repos\2 Sayı Arasındaki Sayılar\2 Sayı Arasındaki Sayılar\obj\Debug\_2_Sayı_Arasındaki_Sayılar.Form1.resources
+C:\Users\ozan1\source\repos\2 Sayı Arasındaki Sayılar\2 Sayı Arasındaki Sayılar\obj\Debug\_2_Sayı_Arasındaki_Sayılar.Properties.Resources.resources
+C:\Users\ozan1\source\repos\2 Sayı Arasındaki Sayılar\2 Sayı Arasındaki Sayılar\obj\Debug\2 Sayı Arasındaki Sayılar.csproj.GenerateResource.cache
+C:\Users\ozan1\source\repos\2 Sayı Arasındaki Sayılar\2 Sayı Arasındaki Sayılar\obj\Debug\2 Sayı Arasındaki Sayılar.csproj.CoreCompileInputs.cache
+C:\Users\ozan1\source\repos\2 Sayı Arasındaki Sayılar\2 Sayı Arasındaki Sayılar\bin\Debug\2 Sayı Arasındaki Sayılar.exe.config
+C:\Users\ozan1\source\repos\2 Sayı Arasındaki Sayılar\2 Sayı Arasındaki Sayılar\bin\Debug\2 Sayı Arasındaki Sayılar.exe
+C:\Users\ozan1\source\repos\2 Sayı Arasındaki Sayılar\2 Sayı Arasındaki Sayılar\bin\Debug\2 Sayı Arasındaki Sayılar.pdb
+C:\Users\ozan1\source\repos\2 Sayı Arasındaki Sayılar\2 Sayı Arasındaki Sayılar\obj\Debug\2 Sayı Arasındaki Sayılar.exe
+C:\Users\ozan1\source\repos\2 Sayı Arasındaki Sayılar\2 Sayı Arasındaki Sayılar\obj\Debug\2 Sayı Arasındaki Sayılar.pdb

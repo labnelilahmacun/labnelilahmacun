@@ -1,0 +1,11 @@
+C:\Users\Paul Pogba\source\repos\3ve4 ün Katı\3ve4 ün Katı\obj\Debug\3ve4 ün Katı.csproj.AssemblyReference.cache
+C:\Users\Paul Pogba\source\repos\3ve4 ün Katı\3ve4 ün Katı\obj\Debug\3ve4 ün Katı.csproj.SuggestedBindingRedirects.cache
+C:\Users\Paul Pogba\source\repos\3ve4 ün Katı\3ve4 ün Katı\obj\Debug\_3ve4_ün_Katı.Form1.resources
+C:\Users\Paul Pogba\source\repos\3ve4 ün Katı\3ve4 ün Katı\obj\Debug\_3ve4_ün_Katı.Properties.Resources.resources
+C:\Users\Paul Pogba\source\repos\3ve4 ün Katı\3ve4 ün Katı\obj\Debug\3ve4 ün Katı.csproj.GenerateResource.cache
+C:\Users\Paul Pogba\source\repos\3ve4 ün Katı\3ve4 ün Katı\obj\Debug\3ve4 ün Katı.csproj.CoreCompileInputs.cache
+C:\Users\Paul Pogba\source\repos\3ve4 ün Katı\3ve4 ün Katı\bin\Debug\3ve4 ün Katı.exe.config
+C:\Users\Paul Pogba\source\repos\3ve4 ün Katı\3ve4 ün Katı\bin\Debug\3ve4 ün Katı.exe
+C:\Users\Paul Pogba\source\repos\3ve4 ün Katı\3ve4 ün Katı\bin\Debug\3ve4 ün Katı.pdb
+C:\Users\Paul Pogba\source\repos\3ve4 ün Katı\3ve4 ün Katı\obj\Debug\3ve4 ün Katı.exe
+C:\Users\Paul Pogba\source\repos\3ve4 ün Katı\3ve4 ün Katı\obj\Debug\3ve4 ün Katı.pdb

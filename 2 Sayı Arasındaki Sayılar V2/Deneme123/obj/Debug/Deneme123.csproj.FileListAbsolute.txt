@@ -1,0 +1,10 @@
+C:\Users\ozan1\source\repos\Deneme123\Deneme123\obj\Debug\Deneme123.csproj.AssemblyReference.cache
+C:\Users\ozan1\source\repos\Deneme123\Deneme123\obj\Debug\Deneme123.Form1.resources
+C:\Users\ozan1\source\repos\Deneme123\Deneme123\obj\Debug\Deneme123.Properties.Resources.resources
+C:\Users\ozan1\source\repos\Deneme123\Deneme123\obj\Debug\Deneme123.csproj.GenerateResource.cache
+C:\Users\ozan1\source\repos\Deneme123\Deneme123\obj\Debug\Deneme123.csproj.CoreCompileInputs.cache
+C:\Users\ozan1\source\repos\Deneme123\Deneme123\bin\Debug\Deneme123.exe.config
+C:\Users\ozan1\source\repos\Deneme123\Deneme123\bin\Debug\Deneme123.exe
+C:\Users\ozan1\source\repos\Deneme123\Deneme123\bin\Debug\Deneme123.pdb
+C:\Users\ozan1\source\repos\Deneme123\Deneme123\obj\Debug\Deneme123.exe
+C:\Users\ozan1\source\repos\Deneme123\Deneme123\obj\Debug\Deneme123.pdb

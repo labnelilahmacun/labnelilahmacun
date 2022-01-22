@@ -1,0 +1,10 @@
+C:\Users\ozan1\source\repos\3'e Bölünebilme\3'e Bölünebilme\bin\Debug\3'e Bölünebilme.exe.config
+C:\Users\ozan1\source\repos\3'e Bölünebilme\3'e Bölünebilme\bin\Debug\3'e Bölünebilme.exe
+C:\Users\ozan1\source\repos\3'e Bölünebilme\3'e Bölünebilme\bin\Debug\3'e Bölünebilme.pdb
+C:\Users\ozan1\source\repos\3'e Bölünebilme\3'e Bölünebilme\obj\Debug\3'e Bölünebilme.csproj.AssemblyReference.cache
+C:\Users\ozan1\source\repos\3'e Bölünebilme\3'e Bölünebilme\obj\Debug\_3_e_Bölünebilme.Form1.resources
+C:\Users\ozan1\source\repos\3'e Bölünebilme\3'e Bölünebilme\obj\Debug\_3_e_Bölünebilme.Properties.Resources.resources
+C:\Users\ozan1\source\repos\3'e Bölünebilme\3'e Bölünebilme\obj\Debug\3'e Bölünebilme.csproj.GenerateResource.cache
+C:\Users\ozan1\source\repos\3'e Bölünebilme\3'e Bölünebilme\obj\Debug\3'e Bölünebilme.csproj.CoreCompileInputs.cache
+C:\Users\ozan1\source\repos\3'e Bölünebilme\3'e Bölünebilme\obj\Debug\3'e Bölünebilme.exe
+C:\Users\ozan1\source\repos\3'e Bölünebilme\3'e Bölünebilme\obj\Debug\3'e Bölünebilme.pdb
